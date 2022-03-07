@@ -12,6 +12,7 @@
 # นัจ-ณวัสน์ เอกสิรินิธิพล <nawhath.aek@hotmail.com>, 2021
 # DOMBRE Julien <moyo@indepnet.net>, 2021
 # kanung chumchid <kn2296@gmail.com>, 2022
+# Aiman Sadiyamu <inewaiman@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -262,7 +263,7 @@ msgstr[0] "กระทำ"
 
 #: ajax/entitytreesons.php:83 entrée standard:74
 msgid "+ sub-entities"
-msgstr ""
+msgstr "+ เอ็นทิตี้รอง"
 
 #: ajax/resaperiod.php:51 ajax/resaperiod.php:57 ajax/resaperiod.php:81
 #: front/stat.item.php:75 front/report.year.list.php:190
@@ -290,7 +291,7 @@ msgstr "วันสิ้นสุด"
 
 #: ajax/resaperiod.php:66 src/Features/PlanningEvent.php:790
 msgid "By day"
-msgstr "โดยวัน"
+msgstr "โดย วัน"
 
 #: ajax/resaperiod.php:76
 msgid "Each month, same date"
@@ -361,7 +362,7 @@ msgstr "First/last addresses: %1$s/%2$s"
 #: ajax/dropdownShowIPNetwork.php:59
 #, php-format
 msgid "Gateway: %s"
-msgstr "Gateway: %s"
+msgstr เก็ตเวย์: %s"
 
 #: ajax/savedsearch.php:48
 msgid "Search has been saved"
@@ -763,7 +764,7 @@ msgstr "%1$s: %2$s"
 #: standard:76 standard:248
 msgid "Email"
 msgid_plural "Emails"
-msgstr[0] "เมล์"
+msgstr[0] "อีเมล์"
 
 #: ajax/dropdownTrackingDeviceType.php:71 front/find_num.php:77
 msgid "Enter the first letters (user, item name, serial or asset number)"
